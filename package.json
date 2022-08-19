@@ -1,0 +1,17 @@
+{
+  "name": "cypresstest",
+  "version": "1.0.0",
+  "description": "testing cypress framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:run": "npx cypress run",
+    "cypress:run:chrome": "npx cypress run --config-file chrome.config.js --browser chrome",
+    "cypress:open": "npx cypress open"
+  },
+  "author": "Tetiana Chuiasova",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.6.0"
+  }
+}
