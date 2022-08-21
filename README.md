@@ -1,5 +1,6 @@
 # Telnyx_project
 Project for testing Telnyx website: https://telnyx.com/
+
 10 test cases for sign in, sign up, navigation, reset password and resend emal areas
 
 ## Requirements
