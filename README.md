@@ -4,10 +4,12 @@ Project for testing Telnyx website: https://telnyx.com/
 
 ## Requirements
 cypress: ^10.6.0
+
 Node.js : 14^
 
 ## Install
 git clone https://github.com/txt2021/Telnyx_project.git
+
 npm install 
 
 ## Run
